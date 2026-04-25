@@ -1,0 +1,33 @@
+{
+    "url": "https://www.ibm.com/think/topics/artificial-intelligence",
+    "summary": [
+        "Artificial intelligence (AI) enables machines to simulate human learning, comprehension, problem solving, decision making, creativity, and autonomy.",
+        "Generative AI, a major focus in 2024, creates original content such as text, images, and videos by building on machine learning and deep learning technologies.",
+        "Machine learning involves training algorithms to make predictions or decisions based on data without explicit programming, forming the foundation for AI and generative AI."
+    ],
+    "technologies": [
+        "Artificial Intelligence (AI)",
+        "Generative AI",
+        "Machine Learning (ML)",
+        "Deep Learning",
+        "Linear Regression",
+        "Logistic Regression",
+        "Chatbots",
+        "Virtual assistants",
+        "Machine learning",
+        "AI-driven recruitment platforms",
+        "Video analysis",
+        "Code generation tools",
+        "Automation tools",
+        "AI workflows",
+        "watsonx Orchestrate",
+        "agentic AI",
+        "IBM Granite"
+    ],
+    "status": "success",
+    "metadata": {
+        "processing_time": 12.16,
+        "chunks_used": 3
+    },
+    "confidence": 0.95
+}
