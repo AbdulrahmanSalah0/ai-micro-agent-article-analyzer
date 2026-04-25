@@ -181,10 +181,11 @@ This gives evaluators a transparent signal of extraction quality without requiri
 ### 3. Metadata Tracking
 Every output includes operational metadata:
 ```json
-"metadata": {
-    "processing_time": 7.43,
-    "chunks_used": 3
-}
+    "status": "success",
+    "metadata": {
+        "processing_time": 12.16,
+        "chunks_used": 3
+    }
 ```
 This enables performance monitoring and demonstrates system observability.
 
@@ -211,25 +212,35 @@ This enables performance monitoring and demonstrates system observability.
 {
     "url": "https://www.ibm.com/think/topics/artificial-intelligence",
     "summary": [
-        "Artificial Intelligence enables machines to simulate human cognitive functions such as learning, reasoning, and problem-solving across diverse domains.",
-        "Modern AI systems rely on machine learning and deep learning techniques to train models on large datasets, enabling pattern recognition and predictive capabilities.",
-        "AI is being adopted across industries including healthcare, finance, and manufacturing to automate processes, enhance decision-making, and drive innovation."
+        "Artificial intelligence (AI) enables machines to simulate human learning, comprehension, problem solving, decision making, creativity, and autonomy.",
+        "Generative AI, a major focus in 2024, creates original content such as text, images, and videos by building on machine learning and deep learning technologies.",
+        "Machine learning involves training algorithms to make predictions or decisions based on data without explicit programming, forming the foundation for AI and generative AI."
     ],
     "technologies": [
-        "Artificial Intelligence",
-        "Machine Learning",
+        "Artificial Intelligence (AI)",
+        "Generative AI",
+        "Machine Learning (ML)",
         "Deep Learning",
-        "Natural Language Processing",
-        "Neural Networks",
-        "Python",
-        "TensorFlow"
+        "Linear Regression",
+        "Logistic Regression",
+        "Chatbots",
+        "Virtual assistants",
+        "Machine learning",
+        "AI-driven recruitment platforms",
+        "Video analysis",
+        "Code generation tools",
+        "Automation tools",
+        "AI workflows",
+        "watsonx Orchestrate",
+        "agentic AI",
+        "IBM Granite"
     ],
     "status": "success",
     "metadata": {
-        "processing_time": 7.43,
+        "processing_time": 12.16,
         "chunks_used": 3
     },
-    "confidence": 0.87
+    "confidence": 0.95
 }
 ```
 
