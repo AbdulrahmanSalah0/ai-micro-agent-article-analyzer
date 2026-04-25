@@ -277,7 +277,7 @@ This solution is designed to balance accuracy, cost efficiency, and scalability,
 ## 👤 About the Author
 
 **Abdulrahman Salah**  
-AI Engineer | Backend Developer | LLM Systems Enthusiast
+AI Engineer |
 
 Passionate about designing and building intelligent systems that combine LLMs, automation, and scalable backend architecture.
 
